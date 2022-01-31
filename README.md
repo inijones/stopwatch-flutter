@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+View the master branch to browse the code
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
